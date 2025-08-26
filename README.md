@@ -30,7 +30,7 @@
 -   **데이터 필터링**: 서울의 중심 지역인 '강남구'의 데이터만을 추출하여 분석을 진행했습니다.
 
 #### 출처
-- [서울시공공데이터](https://data.seoul.go.kr/dataList/OA-15488/S/1/datasetView.do)
+- [서울시공공데이터](https://data.seoul.go.kr/dataList/OA-2218/S/1/datasetView.do)
 - [기상자료개방포털](https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36)
 <br><br>
 
